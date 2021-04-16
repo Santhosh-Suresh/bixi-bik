@@ -1,4 +1,9 @@
 # bixi-bik
+
+![License](https://img.shields.io/badge/license-GPL--3.0-orange)
+![Release](https://img.shields.io/badge/release-v1.0-blue)
+
+
 Predictive model to predict bike demand rentals in Montreal, CA! for Bixi Bike, a Canadian [Bike rental company](https://bixi.com/en).
 
 <img src="https://user-images.githubusercontent.com/11264831/114998493-a25e5c80-9ebe-11eb-8e2f-45cbd2ef084d.png" width="1280" height="650">
